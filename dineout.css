@@ -228,3 +228,23 @@
  color: #d0b200;
  font-size: 36px;
 }
+.footer-image{
+ height: 80px;
+ width: 75px;
+}
+.footer-section-bg{
+  background-color: #5a7184;
+}
+.footer-heading{
+  color: #f9fbfe;
+  font-family: "Roboto";
+  font-weight: 700;
+}
+.footer-address{
+  color: #e5eaf4;
+  font-family: "Roboto";
+  font-weight: 800;
+}
+.work-with-us-section{
+  background-color: aliceblue;
+}
