@@ -239,6 +239,7 @@
   color: #f9fbfe;
   font-family: "Roboto";
   font-weight: 700;
+  font-size: 20px;
 }
 .footer-address{
   color: #e5eaf4;
@@ -247,4 +248,35 @@
 }
 .work-with-us-section{
   background-color: aliceblue;
+}
+.email-container{
+  margin-bottom: 20px;
+  border: 1px solid #d0b200;
+  width: 250px;
+  border-radius: 10px;
+}
+.name-container{
+  margin-bottom: 20px;
+  border: 1px solid #d0b200;
+  width: 250px;
+  border-radius: 10px;
+}
+.file-undertaking{
+  border-radius: 10px;
+  background-color: #d0b200;
+  margin-bottom: 20px;
+}
+.taking-mobile-number{
+  margin-bottom: 20px;
+  border: 1px solid #d0b200;
+  width: 250px;
+  border-radius: 10px;
+}
+.custom-button:hover{
+  color: #ffffff;
+  background-color: #af9608;
+}
+.job-icon{
+  font-size: 35px;
+  margin: 20px;
 }
