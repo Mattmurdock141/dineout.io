@@ -280,3 +280,11 @@
   font-size: 35px;
   margin: 20px;
 }
+.custom-button-2{
+  background-color: #d0b200;
+  color: #ffffff;
+  width: 240px;
+  border-width: 0;
+  padding: 12px;
+  border-radius: 10px;
+}
